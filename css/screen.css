@@ -88,6 +88,19 @@ img { max-width: 100%; }
 	color:#068148;
 }
 
+.halfway{
+	height: 100%;
+	width: 100%;
+	background-color:#F89A7A;
+	border-radius:10%;
+}
+.halfway p{
+	color: black;
+}
+.answer{
+	font-size: 200%;
+	font-family: "Roboto", sans-serif;
+}
 
 /* Media Queries */
 
